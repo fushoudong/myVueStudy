@@ -28,3 +28,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## log
+### 2019-12-07 20:22 第一次提交
+> 配置了element-ui、bootstrap、axios
